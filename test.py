@@ -1,3 +1,2 @@
 print 'j'
-print 'robin'
-hello = 'robin'
+hello = 'vineet'
